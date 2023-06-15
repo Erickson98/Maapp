@@ -1,0 +1,36 @@
+.vscode
+
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop generated
+/[Ee]xported[Oo]bj/
+/.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/*/Build/
+
+# OS generated
+/[Dd]esktop.ini
+/[Tt]humbs.db
+/[Dd]esktop.ini
+/[Rr]ecycler/
+
+# Crashlytics generated
+com_crashlytics_export_strings.xml
+
+# Build pipeline generated
+/Assets/AssetImportState.meta
+/ProjectSettings/ProjectSettings.asset
